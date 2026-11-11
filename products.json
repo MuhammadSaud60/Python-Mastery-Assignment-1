@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Notebook",
+        "price": 3.5,
+        "stock": 12,
+        "tags": [
+            "stationery"
+        ]
+    },
+    {
+        "name": "Pen",
+        "price": 1.25,
+        "stock": 0,
+        "tags": [
+            "stationery",
+            "writing"
+        ]
+    },
+    {
+        "name": "Backpack",
+        "price": 24.99,
+        "stock": 5,
+        "tags": [
+            "school",
+            "bags"
+        ]
+    },
+    {
+        "name": "Calculator",
+        "price": 15.0,
+        "stock": 0,
+        "tags": [
+            "school",
+            "electronics"
+        ]
+    },
+    {
+        "name": "Ruler",
+        "price": 0.99,
+        "stock": 20,
+        "tags": [
+            "stationery"
+        ]
+    }
+]

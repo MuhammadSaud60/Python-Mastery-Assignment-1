@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Ali",
+        "mark_1": 85,
+        "mark_2": 90,
+        "mark_3": 78,
+        "average": 84.33
+    },
+    {
+        "name": "Saad",
+        "mark_1": 76,
+        "mark_2": 88,
+        "mark_3": 92,
+        "average": 85.33
+    },
+    {
+        "name": "Khan",
+        "mark_1": 5,
+        "mark_2": 81,
+        "mark_3": 87,
+        "average": 57.67
+    },
+    {
+        "name": "Abid",
+        "mark_1": 79,
+        "mark_2": 85,
+        "mark_3": 88,
+        "average": 84.0
+    },
+    {
+        "name": "Zaid",
+        "mark_1": 90,
+        "mark_2": 87,
+        "mark_3": 82,
+        "average": 86.33
+    }
+]

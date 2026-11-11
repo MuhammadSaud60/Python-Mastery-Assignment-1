@@ -1,0 +1,57 @@
+INFO Application started
+INFO Configuration loaded
+INFO Database connection established
+INFO Listening on port 8080
+INFO Health check passed
+INFO User session created
+WARNING Cache miss for key user-101
+INFO Request completed with status 200
+ERROR Failed to load profile for user-102
+INFO Retry scheduled
+INFO Retry succeeded
+INFO Request completed with status 200
+DEBUG Worker thread 1 started
+INFO File uploaded: report-01.txt
+ERROR Could not parse report-02.txt
+INFO Invalid file moved to quarantine
+INFO Worker thread 2 started
+WARNING Disk usage reached 75 percent
+INFO Scheduled cleanup started
+INFO Scheduled cleanup completed
+ERROR Database query timed out
+INFO Database connection restored
+INFO Request completed with status 200
+DEBUG Worker thread 3 started
+INFO Email queued for delivery
+INFO Email delivered
+WARNING User login attempt needs verification
+INFO Verification completed
+ERROR Payment provider returned an error
+INFO Payment retry scheduled
+INFO Payment retry succeeded
+INFO Order confirmation sent
+DEBUG Background job started
+INFO Background job completed
+ERROR Missing required field in import row 34
+INFO Import skipped row 34
+INFO Import completed with warnings
+WARNING API response was slower than expected
+INFO API response received
+INFO Cache refreshed
+ERROR Permission denied while opening archive
+INFO Archive operation cancelled
+DEBUG Worker thread 4 stopped
+INFO Daily summary generated
+INFO Daily summary saved
+WARNING Memory usage reached 70 percent
+INFO Memory usage returned to normal
+INFO User session ended
+ERROR Failed to send audit event
+INFO Audit queue will retry
+INFO Audit event sent
+DEBUG Maintenance check started
+INFO Maintenance check completed
+INFO Application shutdown requested
+INFO Open connections closed
+ERROR Shutdown hook exceeded its time limit
+INFO Application stopped
